@@ -1,11 +1,5 @@
 # 基于springboot的家具销售电商管理系统
 
-## 获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ： **商城**，获取完整版源码
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
 ## 1、项目介绍
 
 基于springboot的家具销售电商管理系统拥有两种角色：管理员和用户
@@ -14,7 +8,7 @@
 
 用户：登录注册、下单、历史订单、充值、退款、确认收货、购物车等
 
-![系统架构图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272102659.jpg)
+![系统架构图](https://s2.loli.net/2023/09/29/OUrP19W7LS3nMEH.jpg)
 
 
 ## 2、项目技术
@@ -37,59 +31,52 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272100610.jpg)
+![登录](https://s2.loli.net/2023/09/29/6ACfQhwoOJYPNpV.jpg)
 
 ### 4.2前端 模块
 
-![前端-热销家具](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272102316.jpg)
+![前端-热销家具](https://s2.loli.net/2023/09/29/jRxhXmT1NnuoGDe.jpg)
 
-![前端-公告](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272102974.jpg)
+![前端-公告](https://s2.loli.net/2023/09/29/wDY1BI7LTH6CSEd.jpg)
 
-![前端-家具详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272102564.jpg)
+![前端-家具详情](https://s2.loli.net/2023/09/29/nfg862TXso1d3Pe.jpg)
 
 ### 4.3 用户模块
 
-![用户-购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272102722.jpg)
+![用户-购物车](https://s2.loli.net/2023/09/29/PBfkJAHzs36bQUd.jpg)
 
-![用户-下单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272102821.jpg)
+![用户-下单](https://s2.loli.net/2023/09/29/c7OK1YyqbACl6u2.jpg)
 
-![用户-历史订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272102554.jpg)
+![用户-历史订单](https://s2.loli.net/2023/09/29/SK2VoCfh6YTxciR.jpg)
 
-![用户-地址](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272102680.jpg)
+![用户-地址](https://s2.loli.net/2023/09/29/mpALgWEqheMyvso.jpg)
 
-![用户-个人信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272102324.jpg)
+![用户-个人信息](https://s2.loli.net/2023/09/29/J94eZMEvSyc8Hg3.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-家具分类管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272102693.jpg)
+![管理员-家具分类管理](https://s2.loli.net/2023/09/29/b4oNHTDwBhgqRtQ.jpg)
 
-![管理员-热销家具管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272102205.jpg)
+![管理员-热销家具管理](https://s2.loli.net/2023/09/29/UmVICph7iNKL528.jpg)
 
-![管理员-热销家具详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272102544.jpg)
+![管理员-热销家具详情](https://s2.loli.net/2023/09/29/obNnE7QVG3lJswv.jpg)
 
-![管理员-折扣家具管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272102750.jpg)
+![管理员-折扣家具管理](https://s2.loli.net/2023/09/29/bosO4BCQtxu7VlA.jpg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272102283.jpg)
+![管理员-用户管理](https://s2.loli.net/2023/09/29/qToEjmhvOnlIBQV.jpg)
 
-![管理员-订单评价管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272103094.jpg)
+![管理员-订单评价管理](https://s2.loli.net/2023/09/29/lgmtD2Br8MYcKwp.jpg)
 
-![管理员-公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272103225.jpg)
+![管理员-公告管理](https://s2.loli.net/2023/09/29/5S4jCvlwAVsbdFR.jpg)
 
-![管理员-订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272103717.jpg)
+![管理员-订单管理](https://s2.loli.net/2023/09/29/8rNl2pmEbvaHQCA.jpg)
 
 ### 4.5 文档目录
 
-![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212272103372.jpg)
+![文档目录](https://s2.loli.net/2023/09/29/xc1UMG7kwvI43Dq.jpg)
 
-## 5、视频演示
+### 获取方式&视频演示
 
-[点击播放视频，视频位于文章最后](输入链接)
+下方扫一下，回复关键词：商城
 
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**商城** ，获取完整版源码
-
-
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+![gitee](https://s2.loli.net/2023/09/29/51jRUuCt8zqGFDc.png)
